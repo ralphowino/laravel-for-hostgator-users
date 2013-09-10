@@ -1,3 +1,4 @@
+AddType application/x-httpd-php53 .php
 <IfModule mod_rewrite.c>
     Options -MultiViews
     RewriteEngine On
